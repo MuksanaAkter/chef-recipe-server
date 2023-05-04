@@ -45,7 +45,7 @@
             {"_id":"103","name":"diced garlic"},
             {"_id":"104","name":"fish cake"},
             {"_id":"105","name":"cabbage"},
-            {"_id":"105","name":"red chili sauce"}
+            {"_id":"106","name":"red chili sauce"}
         ],
         "cooking_method1": "Tteokbokki is a traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce. Distinguished by its bright red-orange ensemble, this popular snack is usually sold at street vendors and independent snack bars..",
         "rating1": 4.6
@@ -151,7 +151,7 @@
             {"_id":"103","name":"diced garlic"},
             {"_id":"104","name":"chicken"},
             {"_id":"105","name":"cabbage"},
-            {"_id":"105","name":"red chili sauce"}
+            {"_id":"106","name":"red chili sauce"}
         ],
         "cooking_method1": "Korean fried chicken takes on the quintessential American fast food with its own unique flair. Unlike its American counterparts, the chicken is coated with a sweet and spicy sauce (some restaurants add green pepper inside the batter for a spicier kick) before double frying it in vegetable oil. As a result, the meat is very juicy on the inside, while the lightly battered skin is crunchy with very little grease. It is a popular late-night snack that’s typically served with beer",
         "rating1": 4.6
@@ -204,7 +204,7 @@
             {"_id":"103","name":"diced garlic"},
             {"_id":"104","name":"fish cake"},
             {"_id":"105","name":"cabbage"},
-            {"_id":"105","name":"red chili sauce"}
+            {"_id":"106","name":"red chili sauce"}
         ],
         "cooking_method1": "Tteokbokki is a traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce. Distinguished by its bright red-orange ensemble, this popular snack is usually sold at street vendors and independent snack bars..",
         "rating1": 4.6
@@ -257,13 +257,70 @@
             {"_id":"103","name":"diced garlic"},
             {"_id":"104","name":"fish cake"},
             {"_id":"105","name":"cabbage"},
-            {"_id":"105","name":"red chili sauce"}
+            {"_id":"106","name":"red chili sauce"}
+        ],
+        "cooking_method1": "Tteokbokki is a traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce. Distinguished by its bright red-orange ensemble, this popular snack is usually sold at street vendors and independent snack bars..",
+        "rating1": 4.6
+        }
+    ]
+    },
+    {
+        "_id": "6",
+        "chef_picture": "https://img.koreatimes.co.kr/upload/newsV2/images/202106/8d6e719c00f2419eb3c3b54b39721777.jpg/dims/resize/740/optimize",
+        "chef_name": "Chef Hansik Goo",
+        "years_of_experience": 6,
+        "number_of_recipes": 10,
+        "likes": "13K",
+        "bio": "Mr. Yan doesn’t have an enormous social media following or a list of viral recipes to his name. But his impact on the culinary sphere is immeasurable. In 1982, at age 33, Mr. Yan became one of the first people of Asian descent to host a cooking show in the United States. ",
+        "recipe_Img1": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
+        "recipe_name1": "Bangladeshi Chicken Biryani",
+        "ingredients1": "1)1 lb bone-in chicken pieces. 2) 2 cups basmati rice. 3)3 tbsp ghee. 4)1 large onion, sliced. 5)1 tbsp ginger paste. 6)1 tbsp garlic paste. 6) 2 tbsp biryani masala.7)2 green chilies, chopped",
+        "cooking_method1": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. 8. Garnish with fried onions, cilantro, and mint leaves.",
+        "rating1": 4.8,
+        "recipe":
+        [
+        {"_id":"11",
+            "recipe_Img1": "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/05/Japchae1.jpg",
+        "recipe_name1": "kidghmchijeon",
+        "ingredients": [
+            {"_id":"101","name":"porridges"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"Vegetables"},
+            {"_id":"104","name":"pumpkin"},
+            {"_id":"105","name":"cabbage"}
+        ],
+        "cooking_method1": "This signature Korean dish has been around for more than 2,000 years, dating back to the Shilla Dynasty. Kimchi consists of Korean cabbage, radish, pumpkin, onion, ginger, and scallion with chili powder, crushed garlic and salted seafood, which is then left to ferment. With more than 200 variations available in Seoul, this traditional cuisine is eaten on its own or with white rice, and added into porridges, soups, and rice cakes. Kimchi is also the basis for many derivative dishes such as kimchi stew (kimchi jjigae), kimchi pancake (kimchijeon), and kimchi fried rice.",
+        "rating1": 4.6
+        },
+       {
+        "_id":"12",
+        "recipe_Img1": "https://a.cdn-hotels.com/gdcs/production12/d29/cc49915a-a856-4e94-9ba4-c7e89a652d2e.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+        "recipe_name1": "Bibimbap",
+        "ingredients": [
+            {"_id":"101","name":"soy sauce"},
+            {"_id":"102","name":"chilli peppe"},
+            {"_id":"103","name":"raw egg"},
+            {"_id":"104","name":"beef or chicken,"},
+            {"_id":"105","name":"mixed vegetables"}
+        ],
+        "cooking_method1": "Another must-try during your visit to Seoul is bibimbap, a filling and nutritious dish that’s widely available in restaurants, food courts, and street markets. Depending on region and ingredients used, bibimbap can be served as a meat-based or vegetarian dish.The most common bibimbap consists of warm rice topped with mixed vegetables, beef or chicken, and raw egg, as well as soy sauce and a dollop of chilli pepper paste for seasoning. Ideal for seafood lovers, there’s a variation of this Korean mixed rice dish called hoedeopbap, which replaces meat with raw seafood such as salmon, tuna, or octopus",
+        "rating1": 4.7
+       },
+       {"_id":"13",
+            "recipe_Img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvsVt4PxBaebu9lyqucxbXWR4oASvo8uOd3Q&usqp=CAU",
+        "recipe_name1": "Red rice cakes (tteokbokki)",
+        "ingredients": [
+            {"_id":"101","name":"sugar"},
+            {"_id":"102","name":"Potatoes"},
+            {"_id":"103","name":"diced garlic"},
+            {"_id":"104","name":"fish cake"},
+            {"_id":"105","name":"cabbage"},
+            {"_id":"106","name":"red chili sauce"}
         ],
         "cooking_method1": "Tteokbokki is a traditional Korean street food that’s made with thick slices of garaetteok (boiled rice cake), fish cake, onions, diced garlic, salt, sugar and assorted vegetables that are stir-fried in sweet red chili sauce. Distinguished by its bright red-orange ensemble, this popular snack is usually sold at street vendors and independent snack bars..",
         "rating1": 4.6
         }
     ]
     }
-    
 
 ]
